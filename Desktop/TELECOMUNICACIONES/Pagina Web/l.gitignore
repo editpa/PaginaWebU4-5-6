@@ -1,0 +1,87 @@
+# Ignorar directorios específicos
+.arduinoIDE/
+.dotnet/
+.packettracer/
+.templateengine/
+.vscode/
+AppData/
+Cisco Packet Tracer 8.2.1/
+Contacts/
+Creative Cloud Files/
+4 MATERIAS/
+4TO SEMESTRE/
+5/
+7 - copia - copia/
+7/
+ADOBE ILLUST/
+ARCHIVOS DEL C/
+CONEXION/   # Ten en cuenta que he reemplazado los caracteres especiales por CONEXION
+DISEÑO1 DE LA 2DA PRESENTACION.ai
+DISEÑOS ORIGINALES DE PRESENTACION (LIA)/
+ESCRITORIO/
+INVITACION/   # Ten en cuenta que he reemplazado los caracteres especiales por INVITACION
+MSSQL16.MSSQLSERVER/
+MSSQL16.MSSQLSERVER01/
+Memoria roja/
+Microsoft VS Code/
+PAGINA WEB/
+PW 4 - copia/
+PW 4/
+PW o/
+Packet_Tracer821_64bit_setup_signed.exe/
+Personal 2 - Edge.lnk/
+Proteus 8 Professional.lnk/
+Proteus 8.10 SP0 Pro.exe/
+Proteus 8.10 SP0 Pro/
+REDES/
+RESPUESTAS DEL CUESTIONARIO, PROTOCOLOS TCP-IP imprimir.pdf
+SQL2022-SSEI-Dev.exe/
+Telecomunicaciones/
+borrador del reporte de los protocolos.docx
+DISEÑO DE LA RED.docx
+DISEÑO DE LA RED.pdf
+porsi.docx
+portada.docx/
+VSCodeUserSetup-x64-1.74.3.exe/
+avast_free_antivirus_setup_online.exe/
+boton regresar - copia/
+boton regresar/
+catalogo con todas las imagenes/
+desktop.ini
+dotnet-sdk-6.0.405-win-x64.exe/
+draw.io-14.9.6-windows-installer.exe/
+draw.io-22.0.0-windows-installer.exe/
+iniciar sesion administrador/
+isos/
+notas.docx/
+pasareladepago/
+sql/
+~$Doc1.docx
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+LOGO 100-03.png/
+LOGO 100-04.png/
+LOGO 100-05.png/
+LOGO 100-06.png/
+LOGO 100.ai/
+Links/
+Music/
+NTUSER.DAT/
+NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf/
+NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms/
+NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms/
+Nueva carpeta/
+OneDrive/
+Pictures/
+Program.cs/
+Saved Games/
+Searches/
+Videos/
+k/
+ntuser.dat.LOG1/
+ntuser.dat.LOG2/
+ntuser.ini/
+obj/
+ram8d.csproj
